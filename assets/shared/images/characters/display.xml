@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="display.png">
+	<!-- Generated using some self-written code -->
+	<SubTexture name="hurt0000" x="0" y="0" width="750" height="1000"/>
+	<SubTexture name="hurt0001" x="0" y="0" width="750" height="1000"/>
+	<SubTexture name="hurt0002" x="0" y="0" width="750" height="1000"/>
+	<SubTexture name="hurt0003" x="750" y="0" width="750" height="1000"/>
+	<SubTexture name="hurt0004" x="1500" y="0" width="750" height="1000"/>
+	<SubTexture name="hurt0005" x="2250" y="0" width="750" height="1000"/>
+	<SubTexture name="idle0000" x="3000" y="0" width="750" height="1000"/>
+	<SubTexture name="idle0001" x="3000" y="0" width="750" height="1000"/>
+	<SubTexture name="idle0002" x="3000" y="0" width="750" height="1000"/>
+	<SubTexture name="idle0003" x="3750" y="0" width="750" height="1000"/>
+	<SubTexture name="idle0004" x="4500" y="0" width="750" height="1000"/>
+	<SubTexture name="idle0005" x="5250" y="0" width="750" height="1000"/>
+	<SubTexture name="miss down0000" x="6000" y="0" width="750" height="1000"/>
+	<SubTexture name="miss down0001" x="6000" y="0" width="750" height="1000"/>
+	<SubTexture name="miss down0002" x="6000" y="0" width="750" height="1000"/>
+	<SubTexture name="miss down0003" x="6750" y="0" width="750" height="1000"/>
+	<SubTexture name="miss down0004" x="0" y="1000" width="750" height="1000"/>
+	<SubTexture name="miss down0005" x="750" y="1000" width="750" height="1000"/>
+	<SubTexture name="miss left0000" x="1500" y="1000" width="750" height="1000"/>
+	<SubTexture name="miss left0001" x="1500" y="1000" width="750" height="1000"/>
+	<SubTexture name="miss left0002" x="1500" y="1000" width="750" height="1000"/>
+	<SubTexture name="miss left0003" x="2250" y="1000" width="750" height="1000"/>
+	<SubTexture name="miss left0004" x="3000" y="1000" width="750" height="1000"/>
+	<SubTexture name="miss left0005" x="3750" y="1000" width="750" height="1000"/>
+	<SubTexture name="miss right0000" x="4500" y="1000" width="750" height="1000"/>
+	<SubTexture name="miss right0001" x="4500" y="1000" width="750" height="1000"/>
+	<SubTexture name="miss right0002" x="4500" y="1000" width="750" height="1000"/>
+	<SubTexture name="miss right0003" x="5250" y="1000" width="750" height="1000"/>
+	<SubTexture name="miss right0004" x="6000" y="1000" width="750" height="1000"/>
+	<SubTexture name="miss right0005" x="6750" y="1000" width="750" height="1000"/>
+	<SubTexture name="miss up0000" x="0" y="2000" width="750" height="1000"/>
+	<SubTexture name="miss up0001" x="0" y="2000" width="750" height="1000"/>
+	<SubTexture name="miss up0002" x="0" y="2000" width="750" height="1000"/>
+	<SubTexture name="miss up0003" x="750" y="2000" width="750" height="1000"/>
+	<SubTexture name="miss up0004" x="1500" y="2000" width="750" height="1000"/>
+	<SubTexture name="miss up0005" x="2250" y="2000" width="750" height="1000"/>
+	<SubTexture name="sing down0000" x="3000" y="2000" width="750" height="1000"/>
+	<SubTexture name="sing down0001" x="3000" y="2000" width="750" height="1000"/>
+	<SubTexture name="sing down0002" x="3000" y="2000" width="750" height="1000"/>
+	<SubTexture name="sing down0003" x="3750" y="2000" width="750" height="1000"/>
+	<SubTexture name="sing down0004" x="4500" y="2000" width="750" height="1000"/>
+	<SubTexture name="sing down0005" x="5250" y="2000" width="750" height="1000"/>
+	<SubTexture name="sing down0006" x="6000" y="2000" width="750" height="1000"/>
+	<SubTexture name="sing down0007" x="6000" y="2000" width="750" height="1000"/>
+	<SubTexture name="sing left0000" x="6750" y="2000" width="750" height="1000"/>
+	<SubTexture name="sing left0001" x="6750" y="2000" width="750" height="1000"/>
+	<SubTexture name="sing left0002" x="6750" y="2000" width="750" height="1000"/>
+	<SubTexture name="sing left0003" x="0" y="3000" width="750" height="1000"/>
+	<SubTexture name="sing left0004" x="750" y="3000" width="750" height="1000"/>
+	<SubTexture name="sing left0005" x="1500" y="3000" width="750" height="1000"/>
+	<SubTexture name="sing left0006" x="2250" y="3000" width="750" height="1000"/>
+	<SubTexture name="sing left0007" x="2250" y="3000" width="750" height="1000"/>
+	<SubTexture name="sing right0000" x="3000" y="3000" width="750" height="1000"/>
+	<SubTexture name="sing right0001" x="3000" y="3000" width="750" height="1000"/>
+	<SubTexture name="sing right0002" x="3000" y="3000" width="750" height="1000"/>
+	<SubTexture name="sing right0003" x="3750" y="3000" width="750" height="1000"/>
+	<SubTexture name="sing right0004" x="4500" y="3000" width="750" height="1000"/>
+	<SubTexture name="sing right0005" x="5250" y="3000" width="750" height="1000"/>
+	<SubTexture name="sing right0006" x="6000" y="3000" width="750" height="1000"/>
+	<SubTexture name="sing right0007" x="6000" y="3000" width="750" height="1000"/>
+	<SubTexture name="sing up0000" x="6750" y="3000" width="750" height="1000"/>
+	<SubTexture name="sing up0001" x="6750" y="3000" width="750" height="1000"/>
+	<SubTexture name="sing up0002" x="6750" y="3000" width="750" height="1000"/>
+	<SubTexture name="sing up0003" x="0" y="4000" width="750" height="1000"/>
+	<SubTexture name="sing up0004" x="750" y="4000" width="750" height="1000"/>
+	<SubTexture name="sing up0005" x="1500" y="4000" width="750" height="1000"/>
+	<SubTexture name="sing up0006" x="2250" y="4000" width="750" height="1000"/>
+	<SubTexture name="sing up0007" x="2250" y="4000" width="750" height="1000"/>
+</TextureAtlas>

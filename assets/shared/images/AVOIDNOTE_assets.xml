@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="AVOIDNOTE_assets.png">
+	<!-- Generated using some more self-written code -->
+	<!-- I should stop wasting my time on doing so -->
+	<SubTexture name="L1 0000" x="0" y="0" width="153" height="157" frameX="-3" frameY="0" frameWidth="157" frameHeight="157"/>
+	<SubTexture name="L1 hold end0000" x="280" y="314" width="51" height="64" frameX="-1" frameY="0" frameWidth="51" frameHeight="64"/>
+	<SubTexture name="L1 hold piece0000" x="333" y="314" width="51" height="44" frameX="-1" frameY="0" frameWidth="51" frameHeight="44"/>
+	<SubTexture name="L2 0000" x="0" y="0" width="153" height="157" frameX="-3" frameY="0" frameWidth="157" frameHeight="157"/>
+	<SubTexture name="L2 hold end0000" x="280" y="314" width="51" height="64" frameX="-1" frameY="0" frameWidth="51" frameHeight="64"/>
+	<SubTexture name="L2 hold piece0000" x="333" y="314" width="51" height="44" frameX="-1" frameY="0" frameWidth="51" frameHeight="44"/>
+	<SubTexture name="D1 0000" x="310" y="0" width="157" height="153" frameX="-1" frameY="-2" frameWidth="157" frameHeight="157"/>
+	<SubTexture name="D1 hold end0000" x="280" y="314" width="51" height="64" frameX="-1" frameY="0" frameWidth="51" frameHeight="64"/>
+	<SubTexture name="D1 hold piece0000" x="333" y="314" width="51" height="44" frameX="-1" frameY="0" frameWidth="51" frameHeight="44"/>
+	<SubTexture name="D2 0000" x="310" y="0" width="157" height="153" frameX="-1" frameY="-2" frameWidth="157" frameHeight="157"/>
+	<SubTexture name="D2 hold end0000" x="280" y="314" width="51" height="64" frameX="-1" frameY="0" frameWidth="51" frameHeight="64"/>
+	<SubTexture name="D2 hold piece0000" x="333" y="314" width="51" height="44" frameX="-1" frameY="0" frameWidth="51" frameHeight="44"/>
+	<SubTexture name="U1 0000" x="0" y="159" width="157" height="153" frameX="-1" frameY="-2" frameWidth="157" frameHeight="157"/>
+	<SubTexture name="U1 hold end0000" x="280" y="314" width="51" height="64" frameX="-1" frameY="0" frameWidth="51" frameHeight="64"/>
+	<SubTexture name="U1 hold piece0000" x="333" y="314" width="51" height="44" frameX="-1" frameY="0" frameWidth="51" frameHeight="44"/>
+	<SubTexture name="U2 0000" x="0" y="159" width="157" height="153" frameX="-1" frameY="-2" frameWidth="157" frameHeight="157"/>
+	<SubTexture name="U2 hold end0000" x="280" y="314" width="51" height="64" frameX="-1" frameY="0" frameWidth="51" frameHeight="64"/>
+	<SubTexture name="U2 hold piece0000" x="333" y="314" width="51" height="44" frameX="-1" frameY="0" frameWidth="51" frameHeight="44"/>
+	<SubTexture name="R1 0000" x="155" y="0" width="153" height="157" frameX="-3" frameY="0" frameWidth="157" frameHeight="157"/>
+	<SubTexture name="R1 hold end0000" x="280" y="314" width="51" height="64" frameX="-1" frameY="0" frameWidth="51" frameHeight="64"/>
+	<SubTexture name="R1 hold piece0000" x="333" y="314" width="51" height="44" frameX="-1" frameY="0" frameWidth="51" frameHeight="44"/>
+	<SubTexture name="R2 0000" x="155" y="0" width="153" height="157" frameX="-3" frameY="0" frameWidth="157" frameHeight="157"/>
+	<SubTexture name="R2 hold end0000" x="280" y="314" width="51" height="64" frameX="-1" frameY="0" frameWidth="51" frameHeight="64"/>
+	<SubTexture name="R2 hold piece0000" x="333" y="314" width="51" height="44" frameX="-1" frameY="0" frameWidth="51" frameHeight="44"/>
+	<SubTexture name="N1 0000" x="292" y="159" width="149" height="149" frameX="-5" frameY="-4" frameWidth="157" frameHeight="157"/>
+	<SubTexture name="N1 hold end0000" x="280" y="314" width="51" height="64" frameX="-1" frameY="0" frameWidth="51" frameHeight="64"/>
+	<SubTexture name="N1 hold piece0000" x="333" y="314" width="51" height="44" frameX="-1" frameY="0" frameWidth="51" frameHeight="44"/>
+	<SubTexture name="N2 0000" x="292" y="159" width="149" height="149" frameX="-5" frameY="-4" frameWidth="157" frameHeight="157"/>
+	<SubTexture name="N2 hold end0000" x="280" y="314" width="51" height="64" frameX="-1" frameY="0" frameWidth="51" frameHeight="64"/>
+	<SubTexture name="N2 hold piece0000" x="333" y="314" width="51" height="44" frameX="-1" frameY="0" frameWidth="51" frameHeight="44"/>
+	<SubTexture name="N3 0000" x="292" y="159" width="149" height="149" frameX="-5" frameY="-4" frameWidth="157" frameHeight="157"/>
+	<SubTexture name="N3 hold end0000" x="280" y="314" width="51" height="64" frameX="-1" frameY="0" frameWidth="51" frameHeight="64"/>
+	<SubTexture name="N3 hold piece0000" x="333" y="314" width="51" height="44" frameX="-1" frameY="0" frameWidth="51" frameHeight="44"/>
+	<SubTexture name="N4 0000" x="292" y="159" width="149" height="149" frameX="-5" frameY="-4" frameWidth="157" frameHeight="157"/>
+	<SubTexture name="N4 hold end0000" x="280" y="314" width="51" height="64" frameX="-1" frameY="0" frameWidth="51" frameHeight="64"/>
+	<SubTexture name="N4 hold piece0000" x="333" y="314" width="51" height="44" frameX="-1" frameY="0" frameWidth="51" frameHeight="44"/>
+	<SubTexture name="E1 0000" x="159" y="159" width="131" height="151" frameX="-14" frameY="-3" frameWidth="157" frameHeight="157"/>
+	<SubTexture name="E1 hold end0000" x="280" y="314" width="51" height="64" frameX="-1" frameY="0" frameWidth="51" frameHeight="64"/>
+	<SubTexture name="E1 hold piece0000" x="333" y="314" width="51" height="44" frameX="-1" frameY="0" frameWidth="51" frameHeight="44"/>
+	<SubTexture name="E2 0000" x="159" y="159" width="131" height="151" frameX="-14" frameY="-3" frameWidth="157" frameHeight="157"/>
+	<SubTexture name="E2 hold end0000" x="280" y="314" width="51" height="64" frameX="-1" frameY="0" frameWidth="51" frameHeight="64"/>
+	<SubTexture name="E2 hold piece0000" x="333" y="314" width="51" height="44" frameX="-1" frameY="0" frameWidth="51" frameHeight="44"/>
+	<SubTexture name="E3 0000" x="159" y="159" width="131" height="151" frameX="-14" frameY="-3" frameWidth="157" frameHeight="157"/>
+	<SubTexture name="E3 hold end0000" x="280" y="314" width="51" height="64" frameX="-1" frameY="0" frameWidth="51" frameHeight="64"/>
+	<SubTexture name="E3 hold piece0000" x="333" y="314" width="51" height="44" frameX="-1" frameY="0" frameWidth="51" frameHeight="44"/>
+	<SubTexture name="E4 0000" x="159" y="159" width="131" height="151" frameX="-14" frameY="-3" frameWidth="157" frameHeight="157"/>
+	<SubTexture name="E4 hold end0000" x="280" y="314" width="51" height="64" frameX="-1" frameY="0" frameWidth="51" frameHeight="64"/>
+	<SubTexture name="E4 hold piece0000" x="333" y="314" width="51" height="44" frameX="-1" frameY="0" frameWidth="51" frameHeight="44"/>
+	<SubTexture name="S1 0000" x="129" y="314" width="149" height="147" frameX="-5" frameY="-3" frameWidth="157" frameHeight="157"/>
+	<SubTexture name="S1 hold end0000" x="280" y="314" width="51" height="64" frameX="-1" frameY="0" frameWidth="51" frameHeight="64"/>
+	<SubTexture name="S1 hold piece0000" x="333" y="314" width="51" height="44" frameX="-1" frameY="0" frameWidth="51" frameHeight="44"/>
+	<SubTexture name="S2 0000" x="129" y="314" width="149" height="147" frameX="-5" frameY="-3" frameWidth="157" frameHeight="157"/>
+	<SubTexture name="S2 hold end0000" x="280" y="314" width="51" height="64" frameX="-1" frameY="0" frameWidth="51" frameHeight="64"/>
+	<SubTexture name="S2 hold piece0000" x="333" y="314" width="51" height="44" frameX="-1" frameY="0" frameWidth="51" frameHeight="44"/>
+	<SubTexture name="S3 0000" x="129" y="314" width="149" height="147" frameX="-5" frameY="-3" frameWidth="157" frameHeight="157"/>
+	<SubTexture name="S3 hold end0000" x="280" y="314" width="51" height="64" frameX="-1" frameY="0" frameWidth="51" frameHeight="64"/>
+	<SubTexture name="S3 hold piece0000" x="333" y="314" width="51" height="44" frameX="-1" frameY="0" frameWidth="51" frameHeight="44"/>
+	<SubTexture name="S4 0000" x="129" y="314" width="149" height="147" frameX="-5" frameY="-3" frameWidth="157" frameHeight="157"/>
+	<SubTexture name="S4 hold end0000" x="280" y="314" width="51" height="64" frameX="-1" frameY="0" frameWidth="51" frameHeight="64"/>
+	<SubTexture name="S4 hold piece0000" x="333" y="314" width="51" height="44" frameX="-1" frameY="0" frameWidth="51" frameHeight="44"/>
+	<SubTexture name="W1 0000" x="0" y="314" width="127" height="148" frameX="-16" frameY="-2" frameWidth="157" frameHeight="157"/>
+	<SubTexture name="W1 hold end0000" x="280" y="314" width="51" height="64" frameX="-1" frameY="0" frameWidth="51" frameHeight="64"/>
+	<SubTexture name="W1 hold piece0000" x="333" y="314" width="51" height="44" frameX="-1" frameY="0" frameWidth="51" frameHeight="44"/>
+	<SubTexture name="W2 0000" x="0" y="314" width="127" height="148" frameX="-16" frameY="-2" frameWidth="157" frameHeight="157"/>
+	<SubTexture name="W2 hold end0000" x="280" y="314" width="51" height="64" frameX="-1" frameY="0" frameWidth="51" frameHeight="64"/>
+	<SubTexture name="W2 hold piece0000" x="333" y="314" width="51" height="44" frameX="-1" frameY="0" frameWidth="51" frameHeight="44"/>
+	<SubTexture name="W3 0000" x="0" y="314" width="127" height="148" frameX="-16" frameY="-2" frameWidth="157" frameHeight="157"/>
+	<SubTexture name="W3 hold end0000" x="280" y="314" width="51" height="64" frameX="-1" frameY="0" frameWidth="51" frameHeight="64"/>
+	<SubTexture name="W3 hold piece0000" x="333" y="314" width="51" height="44" frameX="-1" frameY="0" frameWidth="51" frameHeight="44"/>
+	<SubTexture name="W4 0000" x="0" y="314" width="127" height="148" frameX="-16" frameY="-2" frameWidth="157" frameHeight="157"/>
+	<SubTexture name="W4 hold end0000" x="280" y="314" width="51" height="64" frameX="-1" frameY="0" frameWidth="51" frameHeight="64"/>
+	<SubTexture name="W4 hold piece0000" x="333" y="314" width="51" height="44" frameX="-1" frameY="0" frameWidth="51" frameHeight="44"/>
+</TextureAtlas>

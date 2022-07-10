@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="extra.png">
+	<!-- Generated using some more self-written code -->
+	<!-- I should stop wasting my time on doing so -->
+	<SubTexture name="brick0000" x="279" y="72" width="71" height="30" frameX="-2" frameY="-19" frameWidth="72" frameHeight="72"/>
+	<SubTexture name="brick0001" x="352" y="72" width="72" height="30" frameX="-1" frameY="-19" frameWidth="72" frameHeight="72"/>
+	<SubTexture name="diamond0000" x="0" y="72" width="63" height="63" frameX="-5" frameY="-6" frameWidth="72" frameHeight="72"/>
+	<SubTexture name="diamond0001" x="138" y="72" width="62" height="62" frameX="-6" frameY="-6" frameWidth="72" frameHeight="72"/>
+	<SubTexture name="oct0000" x="202" y="72" width="36" height="36" frameX="-19" frameY="-20" frameWidth="72" frameHeight="72"/>
+	<SubTexture name="oct0001" x="240" y="72" width="37" height="36" frameX="-19" frameY="-20" frameWidth="72" frameHeight="72"/>
+	<SubTexture name="mathbf0000" x="65" y="72" width="71" height="63" frameX="-2" frameY="-5" frameWidth="72" frameHeight="72"/>
+	<SubTexture name="mathbf0001" x="441" y="0" width="71" height="64" frameX="-2" frameY="-4" frameWidth="72" frameHeight="72"/>
+	<SubTexture name="leftblackarrow0000" x="0" y="0" width="71" height="70" frameX="-2" frameY="-1" frameWidth="72" frameHeight="72" rotated="true"/>
+	<SubTexture name="downblackarrow0000" x="0" y="0" width="71" height="70" frameX="-2" frameY="-1" frameWidth="72" frameHeight="72" flipX="true" flipY="true"/>
+	<SubTexture name="upblackarrow0000" x="0" y="0" width="71" height="70" frameX="-2" frameY="-1" frameWidth="72" frameHeight="72"/>
+	<SubTexture name="rightblackarrow0000" x="0" y="0" width="71" height="70" frameX="-2" frameY="-1" frameWidth="72" frameHeight="72" flipX="true" flipY="true" rotated="true"/>
+	<SubTexture name="leftblackarrow0001" x="73" y="0" width="72" height="70" frameX="-1" frameY="-1" frameWidth="72" frameHeight="72" rotated="true"/>
+	<SubTexture name="downblackarrow0001" x="73" y="0" width="72" height="70" frameX="-1" frameY="-1" frameWidth="72" frameHeight="72" flipX="true" flipY="true"/>
+	<SubTexture name="upblackarrow0001" x="73" y="0" width="72" height="70" frameX="-1" frameY="-1" frameWidth="72" frameHeight="72"/>
+	<SubTexture name="rightblackarrow0001" x="73" y="0" width="72" height="70" frameX="-1" frameY="-1" frameWidth="72" frameHeight="72" flipX="true" flipY="true" rotated="true"/>
+	<SubTexture name="leftblackwhitearrow0000" x="147" y="0" width="72" height="70" frameX="-1" frameY="-1" frameWidth="72" frameHeight="72" rotated="true"/>
+	<SubTexture name="downblackwhitearrow0000" x="147" y="0" width="72" height="70" frameX="-1" frameY="-1" frameWidth="72" frameHeight="72" flipX="true" flipY="true"/>
+	<SubTexture name="upblackwhitearrow0000" x="147" y="0" width="72" height="70" frameX="-1" frameY="-1" frameWidth="72" frameHeight="72"/>
+	<SubTexture name="rightblackwhitearrow0000" x="147" y="0" width="72" height="70" frameX="-1" frameY="-1" frameWidth="72" frameHeight="72" flipX="true" flipY="true" rotated="true"/>
+	<SubTexture name="leftblackwhitearrow0001" x="221" y="0" width="71" height="70" frameX="-2" frameY="-1" frameWidth="72" frameHeight="72" rotated="true"/>
+	<SubTexture name="downblackwhitearrow0001" x="221" y="0" width="71" height="70" frameX="-2" frameY="-1" frameWidth="72" frameHeight="72" flipX="true" flipY="true"/>
+	<SubTexture name="upblackwhitearrow0001" x="221" y="0" width="71" height="70" frameX="-2" frameY="-1" frameWidth="72" frameHeight="72"/>
+	<SubTexture name="rightblackwhitearrow0001" x="221" y="0" width="71" height="70" frameX="-2" frameY="-1" frameWidth="72" frameHeight="72" flipX="true" flipY="true" rotated="true"/>
+	<SubTexture name="leftwhitearrow0000" x="294" y="0" width="71" height="70" frameX="-2" frameY="-1" frameWidth="72" frameHeight="72" rotated="true"/>
+	<SubTexture name="downwhitearrow0000" x="294" y="0" width="71" height="70" frameX="-2" frameY="-1" frameWidth="72" frameHeight="72" flipX="true" flipY="true"/>
+	<SubTexture name="upwhitearrow0000" x="294" y="0" width="71" height="70" frameX="-2" frameY="-1" frameWidth="72" frameHeight="72"/>
+	<SubTexture name="rightwhitearrow0000" x="294" y="0" width="71" height="70" frameX="-2" frameY="-1" frameWidth="72" frameHeight="72" flipX="true" flipY="true" rotated="true"/>
+	<SubTexture name="leftwhitearrow0001" x="367" y="0" width="72" height="70" frameX="-1" frameY="-1" frameWidth="72" frameHeight="72" rotated="true"/>
+	<SubTexture name="downwhitearrow0001" x="367" y="0" width="72" height="70" frameX="-1" frameY="-1" frameWidth="72" frameHeight="72" flipX="true" flipY="true"/>
+	<SubTexture name="upwhitearrow0001" x="367" y="0" width="72" height="70" frameX="-1" frameY="-1" frameWidth="72" frameHeight="72"/>
+	<SubTexture name="rightwhitearrow0001" x="367" y="0" width="72" height="70" frameX="-1" frameY="-1" frameWidth="72" frameHeight="72" flipX="true" flipY="true" rotated="true"/>
+</TextureAtlas>
