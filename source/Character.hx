@@ -518,7 +518,7 @@ class Character extends FlxSprite
 
 	public function postprocess(scheme:Array<NoteEK>, warn:Bool = true)
 	{
-		NoteLoader.postprocessCharacter(scheme, this);
+		NoteLoader.postprocessCharacter(scheme, this, warn);
 		return this;
 	}
 }

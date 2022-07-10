@@ -1,6 +1,9 @@
 package;
 
 import flixel.graphics.frames.FlxFramesCollection;
+#if !linux
+import flixel.FlxG;
+#end
 
 using StringTools;
 

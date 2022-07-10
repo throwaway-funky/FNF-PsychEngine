@@ -345,11 +345,6 @@ class PlayState extends SongPlayState
 		debugKeysChart = ClientPrefs.copyKey(ClientPrefs.keyBinds.get('debug_1'));
 		debugKeysCharacter = ClientPrefs.copyKey(ClientPrefs.keyBinds.get('debug_2'));
 
-		if (SongPlayState.isPixelStage) {
-			introAlts = [null, 'pixelUI/ready-pixel', 'pixelUI/set-pixel', 'pixelUI/date-pixel'];
-			introSounds = [for (sound in introSounds) sound + '-pixel'];
-		}
-
 		PauseSubState.songName = null; //Reset to default
 		GameOverSubstate.resetVariables();
 
@@ -387,6 +382,11 @@ class PlayState extends SongPlayState
 
 		super.setupStage(); // Can/Should this whole thing be in setupStage instead?
 
+		if (SongPlayState.isPixelStage) {
+			introAlts = [null, 'pixelUI/ready-pixel', 'pixelUI/set-pixel', 'pixelUI/date-pixel'];
+			introSounds = [for (sound in introSounds) sound + '-pixel'];
+		}
+
 		// Populate Variables from StageData
 		defaultCamZoom = stageData.defaultZoom;
 		// cameraSpeed = stageData.camera_speed;
@@ -405,7 +405,7 @@ class PlayState extends SongPlayState
 
 	override private function setupStage()
 	{
-		super.setupStage();
+		// super.setupStage();
 
 		switch (curStage) {
 			case 'stage': //Week 1

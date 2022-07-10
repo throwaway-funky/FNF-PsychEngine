@@ -59,11 +59,9 @@ class SongPlayState extends SongBeatState
 	{
 		super.stepHit();
 
-		if (Math.abs(insts.time - (Conductor.songPosition - Conductor.offset)) > 20
-			|| (songData.needsVoices && Math.abs(vocals.time - (Conductor.songPosition - Conductor.offset)) > 20)) {
-			if (!endingSong) {
-				setSongTime(insts.time);
-			}
+		if (!endingSong) {
+			inline resyncSound(insts, insts.time);
+			if (songData.needsVoices) inline resyncSound(vocals, insts.time);
 		}
 
 		if (curStep == lastStepHit) return;
@@ -1683,9 +1681,10 @@ class SongPlayState extends SongBeatState
 	{
 		callOnLuas('onUpdate', [elapsed]);
 
+		// Which one should go first?
 		super.update(elapsed);
-
 		updateTime(elapsed); // trace('update time');
+
 		checkInput(); // trace('update controls');
 		updateStage(elapsed); // trace('update stage');
 		updatePlayState(elapsed); // trace('update state');
@@ -1998,6 +1997,15 @@ class SongPlayState extends SongBeatState
 		if (play) {
 			insts.play();
 			vocals.play(); 
+		}
+	}
+
+	public function resyncSound(sound:FlxSound, newVal:Float)
+	{
+		var pos:Float = Math.min(sound.length, Conductor.songPosition - Conductor.offset);
+		if (Math.abs(sound.time - pos) > 20) {
+			sound.time = newVal;
+			Conductor.songPosition = newVal;
 		}
 	}
 
